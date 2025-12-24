@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Streamlit
+.streamlit/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Model dosyaları (büyük dosyalar - Git LFS kullanın)
+# bert_based_classification_models/
+# *.pkl
+# *.safetensors
+# *.bin
+
+# Geçici dosyalar
+*.tmp
+*.temp
+
+# Backup dosyaları
+*_backup/
+*.bak
+
